@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<employees status = "ok">
+
+        <record man_no = "101">
+
+            <name>Joe Paul</name>
+
+            <position>CEO</position>
+
+        </record>
+
+        <record man_no = "102">
+
+            <name>Tasha Smith</name>
+
+            <position>Finance Manager</position>
+
+        </record>
+
+        <record man_no = "345">
+
+            <name>Sherk</name>
+
+            <position>Taquero</position>
+
+        </record>
+                <record man_no = "901">
+
+            <name>Eminem</name>
+
+            <position>Goku2</position>
+
+        </record>
+                <record man_no = "102">
+
+            <name>Tasha Smith</name>
+
+            <position>Finance Manager</position>
+
+        </record>
+
+         <record man_no = "923">
+
+            <name>Venom</name>
+
+            <position>Amlo2</position>
+
+        </record>
+
+        <record man_no = "876">
+
+            <name>Kirby</name>
+
+            <position>Spy</position>
+
+        </record>
+
+        
+</employees>
